@@ -59,3 +59,16 @@ Below is the schematic diagram illustrating the core functionality of the board,
 ## Conclusion
 
 The Phoenix Core Board, with its high performance, low power consumption, Type-C standalone power supply support, and versatile interface design, provides embedded developers with a powerful development platform. Whether for learning, development, or commercial applications, it facilitates rapid innovation.
+
+
+## Resources and Support
+
+- **Forum**: [Phoenix Forum](https://forum.umetav.cn/t/phoenix)
+  - **Operating Hours**: Daily from 8:00 AM to 1:00 AM Beijing Time.
+  
+- **QQ Group**: 786239575
+
+- **Technical Support Email**: [tech@umetav.cn](mailto:tech@umetav.cn)
+
+Feel free to contact us through these channels for more information or technical support regarding Phoenix Core Board.
+
